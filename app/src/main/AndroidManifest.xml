@@ -17,7 +17,7 @@
     package="com.openiptv.code">
 
     <uses-sdk android:minSdkVersion="29"
-    android:targetSdkVersion="34" />
+              android:targetSdkVersion="34" />
 
     <!-- Required to play internet-based streaming contents. -->
     <uses-permission android:name="android.permission.INTERNET" />
